@@ -24,6 +24,7 @@ You can see some of the samples of images below:
 
 ## Tools 
 PyTorch 
+
 Colab
 
 
