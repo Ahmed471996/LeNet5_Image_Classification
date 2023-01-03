@@ -13,10 +13,19 @@ LeNet5 is one of the earliest Convolutional Neural Networks (CNNs). It was propo
 Let's now understand the architecture of LeNet5 as shown in the figure below:
 
 
-
-
 ![image](https://user-images.githubusercontent.com/101316217/210370106-013754d6-4bf5-4d45-aa91-642c686c2c8d.png)
 
+## Dataset
+We will be using the MNIST dataset. The MNIST dataset contains images of handwritten numerical digits. The images are greyscale, all with a size of 28x28, and is composed of 60,000 training images and 10,000 testing images.
+
+You can see some of the samples of images below:
+
+![image](https://user-images.githubusercontent.com/101316217/210398206-ff2d8d1d-a7f6-4a4c-a35d-47eb78366c6f.png)
+
+## Tools 
+PyTorch 
+
+Colab
 
 
 ## Future Work
